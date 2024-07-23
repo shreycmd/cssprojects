@@ -1,0 +1,47 @@
+
+
+.logo{
+    height: 100px;
+    margin-bottom: 24px;
+}
+.login{
+    text-align: center;
+    width: 360px;
+    margin: 120px auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.input-form{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 14px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    border-radius: 19px;
+    
+}
+.login-btn{
+    width:80%;
+    box-sizing: border-box;
+    background-color: black;
+    border: none;
+    padding: 10px ;
+    color: white;
+    border-radius: 20px;
+}
+.name{
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.sign-up
+{
+    margin-top: 30px;
+    font-size: small;
+    color: grey;
+    font-weight: 500;
+}
+.para
+{
+    margin-top: 10px;
+}

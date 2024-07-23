@@ -1,0 +1,40 @@
+.BOX{
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 500px;
+    
+    box-sizing:border-box;
+}
+.text{
+    font-weight: lighter;
+    padding-left: 25px;
+} 
+.head{
+    font-size:xx-large;
+
+}
+.sub{
+    color: grey;
+    font-size: larger;
+}
+.img-con{
+    width: max-content;
+    border-radius: 100%;
+    margin-bottom: 20px;
+    padding-left: 25px;
+}
+.img{
+    
+   padding: 25px ;
+    border-radius: 100%;
+    display: inline-block;
+width: 90px;
+min-height: 90px;
+}
+.last{
+    padding: 20px;
+    color: blue;
+}
+
